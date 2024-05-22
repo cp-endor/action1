@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "flow-bin": "0.74.0",
+    "flow-remove-types": "1.2.3",
+    "flow-typed": "2.4.0",
+  }
+}
